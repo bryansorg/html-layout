@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    display:flex;
+    background-color: silver;
+    height: 20vh;
+    
+}
+.small-blue-box{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    margin-left:20px;
+    margin-top: 20px;
+}
+.main-content{
+    background-color: azure;
+    height: 20vh;
+    text-align: center;
+    padding: 100px 0px 0px 0px; 
+}
+.blue-bar{
+    background-color: blue;
+    height: 15vh;
+}
+.lightgreen-bar{
+    background-color: lightgreen;
+    height: 15vh;
+}
+.green-bar{
+    background-color: green;
+    height: 15vh;
+}
+.yellow-bar{
+    background-color:yellow;
+    height: 15vh;
+}
